@@ -1,0 +1,89 @@
+.para{
+    background-color: hsl(244, 38%, 16%);
+    color:white;
+   display:flex;
+  flex-direction:column;
+  width:550px;
+    gap:0%;
+   }
+  
+  .head{
+    text-align:left;
+    margin-bottom:20%;
+    margin-left:12%;
+    margin-bottom:8%;
+    margin-right:10%;
+    font-size:45px;
+    font-family: Inter;
+    
+  }
+  
+  p {
+    text-align:center;
+    margin-top:0%;
+  }
+  
+  .list{
+    text-align:left;
+   color:hsl(245, 64%, 61%);
+  margin-top:0%;
+  font-size: 11px;
+  font-family: Inter;
+  }
+  
+  .image{
+    width:562px;
+    
+  
+  }
+  
+  .a1{
+    display:flex;
+    
+  }
+  
+  body{
+    background-color: hsl(233, 47%, 7%);
+    display:flex;
+    justify-content:center;
+  margin:auto;
+    
+  }
+  
+  ul{
+    display:flex;
+    list-style : none;
+    gap: 25%;
+    margin-top:0%;
+    margin-left:4%
+  
+  }
+  
+  .hd{
+    font-size:15px;
+    text-align:left;
+    margin-left:12%;
+    margin-bottom:8%;
+    margin-right:10%;
+    font-family: Lexend Deca;
+    font-weight: 400; 
+    color:hsl(245, 20%, 48%);
+      
+  }
+  
+  h1{
+    
+    margin:auto;
+  
+  }
+  h3{
+    margin-bottom:0%;
+    font-family: Inter;
+  }
+  
+  .a1{
+  margin-top:15%
+  }
+  img{
+    filter: sepia(100%) saturate(230%) brightness(70%) hue-rotate(240deg);
+  }
